@@ -116,3 +116,8 @@ curl -X PUT -H "Accept: application/json" "http://localhost:8000/api/places/new-
 ```bash
 curl -X DELETE -H "Accept: application/json" "http://localhost:8000/api/places/updated-place"
 ```
+## Unit Testing
+
+```bash
+php artisan test --env=testing
+```
