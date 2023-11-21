@@ -20,7 +20,7 @@ Make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/fernandoboueres/gPlaces.git
-2. Install dependecies:
+2. Install composer dependecies:
 
    ```bash
    composer install
